@@ -1,3 +1,3 @@
 # react-jphlmf
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-jphlmf)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/reacthtmlintro)
